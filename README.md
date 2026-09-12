@@ -1,1 +1,1 @@
-# HTMLSemantico_678157
+En el archivo HTML, se cambiaron los <div> con <header>, <nav>, <main>, <aside> y <footer> según su función en la página. También se redujo el uso de CSS, que anteriormente se incluía en etiquetas somo <strong> y <em>, implementando el uso de títulos y subtítulos <h1>, <h2>,  etc., bloques de citas y contactos, entre otros que, además, ayudan a mejorar la identificación de elementos clave en la página para mejorar su búsqueda (SEO).
